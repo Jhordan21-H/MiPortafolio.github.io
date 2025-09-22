@@ -5,7 +5,7 @@
 
 <!-- Título animado con typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2200&pause=900&color=22D3EE&center=true&vCenter=true&width=800&lines=✍️+Estudiante:+Huamán+Rojas+Jhordan+Armando" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2200&pause=900&color=6D28D9&center=true&vCenter=true&width=800&lines=%F0%9F%93%92+Semana+01;%E2%9C%8D%EF%B8%8F+Estudiante%3A+Huam%C3%A1n+Rojas+Jhordan+Armando" alt="Título animado: Semana 01" />
 </p>
 
 <p align="center">
